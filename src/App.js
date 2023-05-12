@@ -1,7 +1,12 @@
 import React from 'react';
+import Editor from './editor/Editor';
 
 const App = () => {
-  return <h1>Hello world</h1>
+  return (
+    <>
+      <Editor />
+    </>
+  )
 }
 
 export default App;
