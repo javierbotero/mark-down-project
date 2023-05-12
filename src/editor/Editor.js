@@ -14,6 +14,7 @@ const Editor = () => {
         placeholder="placeholder"
         onChange={onChange}
         value={text}
+        rows="10"
       />
       <Preview />
     </>

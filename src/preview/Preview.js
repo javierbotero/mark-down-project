@@ -12,7 +12,7 @@ const Preview = () => {
 
   return (
     <>
-      <div id="preview" dangerouslySetInnerHTML={{__html: markedText}} />
+      <div id="preview" className="py-5 not-overflow" dangerouslySetInnerHTML={{__html: markedText}} />
     </>
   )
 }
