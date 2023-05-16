@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/javierbotero/mark-down-project/static/css/main.37ee3ea6.css",
+    "main.js": "/javierbotero/mark-down-project/static/js/main.fb585a07.js",
+    "index.html": "/javierbotero/mark-down-project/index.html",
+    "main.37ee3ea6.css.map": "/javierbotero/mark-down-project/static/css/main.37ee3ea6.css.map",
+    "main.fb585a07.js.map": "/javierbotero/mark-down-project/static/js/main.fb585a07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37ee3ea6.css",
+    "static/js/main.fb585a07.js"
+  ]
+}
