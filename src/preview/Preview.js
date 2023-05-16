@@ -11,9 +11,7 @@ const Preview = () => {
   const markedText = DOMpurify.sanitize(marked.parse(text));
 
   return (
-    <>
-      <div id="preview" className="py-5 not-overflow" dangerouslySetInnerHTML={{__html: markedText}} />
-    </>
+    <div id="preview" className="bg-info col-12 py-5 not-overflow forty-percent-height border border-5 rounded" dangerouslySetInnerHTML={{__html: markedText}} />
   )
 }
 

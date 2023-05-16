@@ -1,3 +1,7 @@
 .not-overflow {
-  overflow: hidden;
+  overflow: scroll;
+}
+
+.forty-percent-height {
+  height: 40vh;
 }

@@ -15,6 +15,7 @@ const Editor = () => {
         onChange={onChange}
         value={text}
         rows="10"
+        className="col-12 forty-percent-height border border-5"
       />
       <Preview />
     </>
